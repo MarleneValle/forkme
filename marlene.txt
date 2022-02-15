@@ -1,0 +1,4 @@
+Hi Simon,
+Thanks for the help.
+I just wanted to clarify that I didn't create a new SSH key before the class because I checked my key list on Sunday and it showed me that I had 8 already, so I thought that was enough...sorry, my mistake!
+I promise I'll keep practicing Git so I don't make the same mistakes :)
